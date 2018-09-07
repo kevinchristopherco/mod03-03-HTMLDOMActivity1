@@ -1,0 +1,6 @@
+header --> h1
+navigation --> ul --> li -- a
+main/article --> h2 
+             --> p
+             --> p
+footer --> (small) --> p
